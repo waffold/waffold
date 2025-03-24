@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @waffold
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he him
-- ⚡ Fun fact: ...
+Trying to learn game dev just getting into whatever i can
 
 <!---
 waffold/waffold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
