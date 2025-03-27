@@ -1,4 +1,7 @@
-Trying to learn game dev just getting into whatever i can
+Interested in Game Dev
+Working on learning Unity C#
+
+HTML CSS Javascript Python
 
 <!---
 waffold/waffold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
